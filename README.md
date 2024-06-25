@@ -1,6 +1,6 @@
 ## DEMO :
-/iot-one.mp4
 
+https://github.com/alvinzanuaputra/handgesture-python/assets/140075243/1ac6ce5e-4199-4260-b074-f5af7417fc1e
 
 ## Usage : 
 
